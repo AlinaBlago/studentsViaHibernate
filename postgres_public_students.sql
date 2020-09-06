@@ -1,0 +1,9 @@
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (1, 'Alina', 'Blago', 1, 1);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (2, 'Vlad', 'Yan', 3, 2);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (3, 'Vanya', 'Gloks', 1, 1);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (4, 'Igor', 'Vanse', 1, 1);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (5, 'Daria', 'Cops', 1, 1);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (6, 'Zyrik', 'Lems', 1, 1);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (9, 'Alina', 'Bl', 3, 2);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (10, 'Alina', 'Bl', 3, 2);
+INSERT INTO public.students (id, name, last_name, id_course, id_group) VALUES (11, 'Alina', 'Bl', 37, 33);
